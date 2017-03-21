@@ -1,0 +1,24 @@
+# Czech strings go here for Rails i18n
+cs:
+  activities: Aktivita
+  custom_query_issues_list: Seznam úkolů z mých dotazů
+  my_custom_queries: Moje dotazy
+
+  label_my_activity_enable: Povolit výpis aktivity na mé stránce.
+  em_my_activity_enable: Zaškrtnutím povolíte uživatelům zobrazit na jejich stránce výpis aktivity.
+
+  label_select_query: Vybrat dotazy
+  label_update_query: Aktualizovat výběr dotazu
+  label_my_custom_queries: Vlastní dotazy
+  label_select_activities: Vybrat aktivity
+  label_update_activities: Upravit výběr aktivit
+  label_my_activities: Aktivita
+  label_show_user_activity: Pro uživatele
+
+  label_activity_not_enabled: Výpis aktivity na mé stránce není povolen.
+
+  label_custom_queries: Vybrat dotaz
+  label_custom_query_limit: Omezit seznam úkolů
+
+  label_landing_page: Výchozí stránka po přihlášení
+  label_default_my_page: Stránky
